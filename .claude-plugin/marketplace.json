@@ -10,6 +10,10 @@
       "source": "./plugins/newtab"
     },
     {
+      "name": "nsis",
+      "source": "./plugins/nsis"
+    },
+    {
       "name": "ipprotection",
       "source": "./plugins/ipprotection"
     },
